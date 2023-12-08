@@ -53,7 +53,7 @@ const jocdwardo = {
 
 - 📫 Feel free to reach me out **jocdwardo25@gmail.com**
 
-- 🏠 Also We've a tech web3 community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 Also We've a tech web3 community called [CeviDevs](https://discord.gg/FAnMmtdz)).
 <!--Intro end-->
 
 
